@@ -1,0 +1,272 @@
+# category|question|correct answer|wrong 1|wrong 2|wrong 3
+Java|Which keyword is used to inherit a class in Java?|extends|implements|inherits|super
+Java|Which method is the entry point of a Java program?|main|start|run|init
+Java|Which collection does not allow duplicate elements?|Set|List|ArrayList|LinkedList
+Java|How many bits does an int use in Java?|32|16|64|8
+Java|Which keyword prevents a class from being inherited?|final|static|abstract|private
+Java|Which of these is NOT a primitive type in Java?|String|boolean|char|double
+Java|What does JVM stand for?|Java Virtual Machine|Java Variable Method|Java Verified Module|Joint Virtual Machine
+Java|Which interface defines the natural ordering of objects?|Comparable|Comparator|Iterable|Serializable
+Java|Which block always executes after try and catch?|finally|else|default|end
+Java|Which package contains the Scanner class?|java.util|java.io|java.lang|java.text
+Java|What is the default value of an int instance variable?|0|null|1|undefined
+Java|Which class is the superclass of all classes in Java?|Object|Class|Base|Root
+Java|Which keyword creates a new object?|new|create|alloc|make
+Java|Which collection keeps insertion order and allows duplicates?|ArrayList|HashSet|TreeSet|HashMap
+Java|Which Map implementation keeps its keys sorted?|TreeMap|HashMap|LinkedHashMap|IdentityHashMap
+Java|Which keyword declares a constant variable in Java?|final|const|static|immutable
+Java|Which of these is a checked exception?|IOException|NullPointerException|ArithmeticException|ArrayIndexOutOfBoundsException
+Java|What is method overloading?|Same name with different parameters|Same signature in a subclass|Calling a method repeatedly|Hiding a field
+Java|Which keyword refers to the current object?|this|self|current|me
+Java|Which method should you use to compare String contents?|equals()|==|compare()|same()
+Java|Which access modifier is the most restrictive?|private|protected|default|public
+Java|What does a static method belong to?|The class|Each instance|The JVM only|The thread
+Java|Which interface stores key-value pairs?|Map|Collection|List|Set
+Java|Which Java version introduced lambda expressions?|Java 8|Java 5|Java 7|Java 11
+Java|Which loop always runs at least once?|do-while|while|for|for-each
+Java|Which keyword is used to implement an interface?|implements|extends|uses|inherits
+Java|Which of these classes is immutable?|String|StringBuilder|ArrayList|StringBuffer
+Java|Which method starts a new thread of execution?|start()|run()|begin()|execute()
+Java|Which annotation marks an overridden method?|@Override|@Overrides|@Super|@Inherit
+Java|What is the index of the first element of an array?|0|1|-1|Depends on the type
+Java|Which keyword explicitly throws an exception?|throw|throws|raise|emit
+Java|Which keyword declares that a method may throw an exception?|throws|throw|raises|catch
+Java|Which statement ends a loop immediately?|break|skip|halt|end
+Java|Which Java class is used to build mutable strings efficiently?|StringBuilder|String|Text|CharSeq
+Python|Which keyword defines a function in Python?|def|function|fun|func
+Python|Which of these types is mutable?|list|tuple|str|frozenset
+Python|Which symbol starts a single-line comment in Python?|#|//|--|/*
+Python|Which function returns the length of a list?|len()|length()|size()|count()
+Python|What does PEP 8 describe?|Python style guide|Package index|Exception handling|Python versions
+Python|Which keyword is used to catch exceptions in Python?|except|catch|rescue|handle
+Python|What does the // operator do?|Floor division|Comment|Exponentiation|Modulus
+Python|Which literal creates a dictionary?|{"a": 1}|["a": 1]|("a": 1)|<"a": 1>
+Python|Which type is an ordered, immutable sequence?|tuple|set|dict|list
+Python|Which function reads input from the user?|input()|scanf()|read()|gets()
+Python|Which keyword turns a function into a generator?|yield|generate|emit|produce
+Python|What is pip?|Package installer|Compiler|IDE|Debugger
+Python|Which operator performs exponentiation?|**|^|^^|exp
+Python|What does __init__ do?|Initializes a new object|Destroys an object|Imports a module|Defines a package
+Python|What is the result of bool("")?|False|True|None|Error
+Python|Which statement imports a module?|import|include|using|require
+Python|Which library is used for numerical arrays?|NumPy|Flask|Django|Pillow
+Python|Which library provides DataFrames?|pandas|requests|pytest|pygame
+Python|What is None in Python?|Absence of a value|Zero|Empty string|False
+Python|Which decorator defines a static method?|@staticmethod|@static|@classmethod|@method
+Python|Which method adds an item to the end of a list?|append()|add()|push()|insert_end()
+Python|What does self represent in a method?|The current instance|The class|The module|The parent
+Python|Which of these is a Python web framework?|Django|Spring|Laravel|Express
+Python|Which statement opens a file and closes it automatically?|with open()|open_safe()|file.open()|read_file()
+Python|What does the GIL do in CPython?|Lets one thread run bytecode at a time|Collects garbage|Imports libraries|Compiles to machine code
+Python|Which type holds unordered unique items?|set|list|tuple|str
+Python|Who created Python?|Guido van Rossum|James Gosling|Dennis Ritchie|Bjarne Stroustrup
+Python|What does len({1, 2, 2, 3}) return?|3|4|2|1
+Python|Which keyword defines a class?|class|struct|object|define
+JavaScript|Which keyword declares a block-scoped variable?|let|var|def|dim
+JavaScript|What does typeof null return?|object|null|undefined|number
+JavaScript|Which operator checks both value and type?|===|==|=|!=
+JavaScript|Which array method adds an element to the end?|push()|pop()|shift()|unshift()
+JavaScript|What does JSON stand for?|JavaScript Object Notation|Java Standard Object Notation|JavaScript Ordered Nodes|Joint Syntax Object Network
+JavaScript|Which function parses a JSON string?|JSON.parse()|JSON.stringify()|JSON.decode()|JSON.read()
+JavaScript|What does DOM stand for?|Document Object Model|Data Object Mapping|Digital Ordered Markup|Document Oriented Module
+JavaScript|Which keyword declares a constant?|const|final|static|fixed
+JavaScript|Which array method transforms each element into a new array?|map()|forEach()|reduce()|filter()
+JavaScript|What does async/await simplify working with?|Promises|Loops|Classes|Modules
+JavaScript|Which runtime runs JavaScript outside the browser?|Node.js|Tomcat|Apache|Nginx
+JavaScript|Which symbol defines an arrow function?|=>|->|::|==>
+JavaScript|What does NaN stand for?|Not a Number|No Assigned Number|Null and Nothing|Negative and Null
+JavaScript|Which array method removes the last element?|pop()|shift()|unshift()|concat()
+JavaScript|Which function runs code after a delay?|setTimeout()|wait()|sleep()|delay()
+JavaScript|Which language adds static types on top of JavaScript?|TypeScript|Kotlin|Ruby|Perl
+JavaScript|What is a closure?|A function that remembers its outer scope|A closed file|A private class|A loop terminator
+JavaScript|Which method converts an object to a JSON string?|JSON.stringify()|JSON.parse()|JSON.toText()|JSON.encode()
+JavaScript|What is the result of "5" + 3?|"53"|8|NaN|Error
+JavaScript|What is the spread operator?|...|**|&&&|??
+JavaScript|Which company originally created JavaScript?|Netscape|Microsoft|Sun Microsystems|Oracle
+JavaScript|Which keyword exports a value from a module?|export|public|expose|module.out
+JavaScript|Which method filters elements by a condition?|filter()|find()|map()|sort()
+JavaScript|What does console.log() do?|Prints to the console|Reads a file|Creates a variable|Opens a page
+C/C++|Who created the C language?|Dennis Ritchie|Bjarne Stroustrup|James Gosling|Linus Torvalds
+C/C++|Who created C++?|Bjarne Stroustrup|Dennis Ritchie|Guido van Rossum|Ken Thompson
+C/C++|Which operator gives the address of a variable?|&|*|#|@
+C/C++|Which operator dereferences a pointer?|*|&|%|::
+C/C++|Which header declares printf?|stdio.h|stdlib.h|string.h|math.h
+C/C++|Which function allocates memory in C?|malloc()|alloc()|create()|reserve()
+C/C++|Which keyword releases memory allocated with new in C++?|delete|free|remove|destroy
+C/C++|What is a null pointer?|A pointer that points to nothing|A pointer to zero|A pointer to a string|An uninitialized int
+C/C++|Which of these is a C++ standard container?|vector|ArrayList|Dictionary|StringList
+C/C++|Which feature exists in C++ but not in C?|Classes|Functions|Pointers|Arrays
+C/C++|What does the :: operator do in C++?|Scope resolution|Pointer access|Logical AND|Ternary
+C/C++|Which object prints to the console in C++?|cout|print|echo|write
+C/C++|What does RAII stand for?|Resource Acquisition Is Initialization|Random Access In Iteration|Runtime Allocation Is Immediate|Resource Allocation In Interface
+C/C++|Which keyword allows runtime overriding of a method in C++?|virtual|static|inline|friend
+C/C++|How big is a char in C?|1 byte|2 bytes|4 bytes|8 bytes
+C/C++|Which smart pointer has exclusive ownership?|unique_ptr|shared_ptr|weak_ptr|raw_ptr
+C/C++|What happens when you access an array out of bounds in C?|Undefined behavior|An exception is thrown|Compile error|The array resizes
+C/C++|What does #include do?|Inserts a header file|Defines a macro|Declares a variable|Starts a comment
+C/C++|Which keyword declares a constant in C++?|const|final|readonly|fixed
+C/C++|What is a segmentation fault?|Invalid memory access|Syntax error|Slow loop|Disk error
+Web|What does HTML stand for?|HyperText Markup Language|High Text Machine Language|Hyper Transfer Markup Logic|HyperTool Multi Language
+Web|What does CSS stand for?|Cascading Style Sheets|Computer Style Syntax|Creative Style System|Coded Styling Sheets
+Web|Which tag creates a hyperlink?|<a>|<link>|<href>|<url>
+Web|Which tag defines the largest heading?|<h1>|<h6>|<head>|<title>
+Web|Which CSS property changes text color?|color|font-color|text-style|foreground
+Web|Which HTTP method is used to retrieve data?|GET|POST|DELETE|PUT
+Web|Which status code means Not Found?|404|200|500|301
+Web|Which status code means success?|200|404|500|403
+Web|What does status code 500 mean?|Internal server error|Not found|Forbidden|Bad request
+Web|Which HTTP method is typically used to create a resource in REST?|POST|GET|HEAD|TRACE
+Web|What does REST stand for?|Representational State Transfer|Remote Execution Standard Transfer|Real-time Event State Transport|Reliable Server Transaction
+Web|What does API stand for?|Application Programming Interface|Applied Program Integration|Automated Process Interface|Application Process Index
+Web|Which CSS layout system is primarily two-dimensional?|Grid|Flexbox|Float|Inline
+Web|Which protocol encrypts HTTPS traffic?|TLS|SMTP|FTP|ARP
+Web|What is the default port of HTTP?|80|443|21|25
+Web|What is the default port of HTTPS?|443|80|22|8080
+Web|Which attribute gives an image alternate text?|alt|title|src|text
+Web|Which tag defines an unordered list?|<ul>|<ol>|<li>|<dl>
+Web|What does CORS stand for?|Cross-Origin Resource Sharing|Cross-Object Request Security|Central Origin Routing System|Cached Origin Resource Setting
+Web|Which CSS unit is relative to the root font size?|rem|px|pt|cm
+Web|What is a cookie?|Small data stored by the browser for a site|A server database|A script file|An image format
+Web|Which status code means permanent redirect?|301|302|304|404
+Web|Which UI library was created by Meta (Facebook)?|React|Angular|Vue|Svelte
+Web|Which framework was created by Google?|Angular|React|Vue|Ember
+Database|What does SQL stand for?|Structured Query Language|Simple Query Logic|Standard Question Language|Sequential Query List
+Database|Which command retrieves data from a table?|SELECT|GET|PULL|OPEN
+Database|Which clause filters rows?|WHERE|ORDER BY|GROUP BY|LIMIT
+Database|Which command removes a table entirely?|DROP|TRUNCATE|DELETE|REMOVE
+Database|Which key uniquely identifies each row?|Primary key|Foreign key|Secondary label|Null key
+Database|Which key links one table to another?|Foreign key|Primary key|Index key|Unique label
+Database|Which JOIN returns only matching rows?|INNER JOIN|LEFT JOIN|FULL JOIN|CROSS JOIN
+Database|Which clause sorts results?|ORDER BY|SORT BY|GROUP BY|ARRANGE
+Database|Which function counts rows?|COUNT()|SUM()|TOTAL()|NUM()
+Database|Which clause filters grouped results?|HAVING|WHERE|FILTER|LIMIT
+Database|In ACID, what does the A stand for?|Atomicity|Availability|Accuracy|Authorization
+Database|Which of these is a document database?|MongoDB|MySQL|PostgreSQL|Oracle
+Database|Which of these is an in-memory key-value store?|Redis|MySQL|SQLite|MariaDB
+Database|What does a database index do?|Speeds up data retrieval|Encrypts data|Backs up data|Deletes duplicates
+Database|Which normal form removes partial dependencies?|2NF|1NF|3NF|0NF
+Database|Which statement modifies existing rows?|UPDATE|MODIFY|CHANGE|REPLACE ROW
+Database|Which command adds a column to a table?|ALTER TABLE|UPDATE TABLE|MODIFY ROW|ADD TABLE
+Database|What is a transaction?|A unit of work that commits or rolls back|A table backup|A stored index|A user role
+Database|Which command undoes an uncommitted transaction?|ROLLBACK|UNDO|REVERT|CANCEL
+Database|Which keyword removes duplicates in a SELECT?|DISTINCT|UNIQUE|DIFFERENT|SINGLE
+Database|Which LIKE wildcard matches any number of characters?|%|*|#|?
+Database|What does NULL represent in SQL?|Unknown or missing value|Zero|Empty string|False
+DSA|What is the time complexity of binary search?|O(log n)|O(n)|O(n log n)|O(1)
+DSA|Which data structure is LIFO?|Stack|Queue|Array|Heap
+DSA|Which data structure is FIFO?|Queue|Stack|Tree|Graph
+DSA|What is the average lookup time in a hash table?|O(1)|O(n)|O(log n)|O(n^2)
+DSA|What is the worst-case time of bubble sort?|O(n^2)|O(n)|O(n log n)|O(log n)
+DSA|Which sort guarantees O(n log n) in the worst case?|Merge sort|Quick sort|Bubble sort|Insertion sort
+DSA|Which graph traversal uses a queue?|BFS|DFS|Inorder|Preorder
+DSA|Which graph traversal typically uses a stack?|DFS|BFS|Dijkstra|Kruskal
+DSA|What is the maximum number of children of a binary tree node?|2|1|3|Unlimited
+DSA|What does an inorder traversal of a BST give?|Sorted order|Reverse order|Level order|Random order
+DSA|Which structure is used to implement a priority queue?|Heap|Stack|Deque|Trie
+DSA|Which structure stores strings by shared prefixes?|Trie|Heap|Stack|Queue
+DSA|What is the time to access an array element by index?|O(1)|O(n)|O(log n)|O(n log n)
+DSA|What is the time to insert at the head of a singly linked list?|O(1)|O(n)|O(log n)|O(n^2)
+DSA|Which algorithm finds shortest paths with non-negative weights?|Dijkstra|Kruskal|Prim|Topological sort
+DSA|What does Kruskal's algorithm find?|Minimum spanning tree|Shortest path|Maximum flow|Topological order
+DSA|Which of these is a self-balancing BST?|AVL tree|Max heap|Trie|Linked list
+DSA|What is the space complexity of merge sort?|O(n)|O(1)|O(log n)|O(n^2)
+DSA|Which of these sorts is typically not stable?|Quick sort|Merge sort|Insertion sort|Bubble sort
+DSA|What is recursion?|A function calling itself|A loop construct|Compile-time evaluation|A sorting method
+DSA|Dynamic programming relies on which property?|Overlapping subproblems|Randomization|Hashing|Backtracking only
+DSA|What is the lookup time in a balanced BST?|O(log n)|O(1)|O(n)|O(n^2)
+DSA|Which graph is connected and has no cycles?|Tree|Complete graph|Cyclic graph|Bipartite graph
+DSA|On which graphs does topological sort work?|Directed acyclic graphs|Any undirected graph|Cyclic graphs|Complete graphs
+DSA|Which data structure suits an undo feature?|Stack|Queue|Heap|Set
+DSA|What is the best-case time of insertion sort?|O(n)|O(n^2)|O(log n)|O(n log n)
+DSA|What is the average time of quicksort?|O(n log n)|O(n^2)|O(n)|O(log n)
+DSA|Which method detects a cycle in a linked list?|Floyd's tortoise and hare|Dijkstra|Kadane|Huffman
+DSA|Which problem does Kadane's algorithm solve?|Maximum subarray|Shortest path|Sorting|Palindrome check
+DSA|Which of these is a greedy algorithm?|Huffman coding|Merge sort|Floyd-Warshall|Binary search
+DSA|What does Big O notation describe?|Upper bound of growth rate|Exact runtime|Memory address|Compile speed
+DSA|Which structure allows insertion and removal at both ends?|Deque|Stack|Heap|Set
+OS|What is a process?|A program in execution|A file|A compiler|A device
+OS|Which condition is required for deadlock?|Circular wait|Preemption|Paging|Spooling
+OS|What is the kernel?|The core of the operating system|A text editor|A shell|A compiler
+OS|What is virtual memory?|Using disk space to extend RAM|A faster CPU cache|Network storage|GPU memory
+OS|What is a thread?|A lightweight unit of execution inside a process|A hard disk|A network packet|A memory page
+OS|What is a mutex used for?|Mutual exclusion|Caching|Scheduling|Compilation
+OS|Who created the Linux kernel?|Linus Torvalds|Bill Gates|Richard Stallman|Steve Jobs
+OS|Which Linux command lists directory contents?|ls|cp|cd|mv
+OS|What does chmod do?|Changes file permissions|Changes directory|Deletes a file|Changes the user
+OS|Which command prints the current directory?|pwd|cd|ls|whoami
+OS|What is paging?|Dividing memory into fixed-size blocks|Compressing files|Routing packets|Killing processes
+OS|Which scheduling algorithm uses a time quantum?|Round Robin|FCFS|Shortest Job First|Priority only
+OS|What is a semaphore used for?|Synchronization|Encryption|Rendering|Compilation
+OS|What is thrashing?|Excessive paging that degrades performance|CPU overheating|Disk failure|Network congestion
+OS|Which Linux command terminates a process?|kill|stop|end|cut
+OS|What does PID stand for?|Process ID|Program Index Data|Primary Instruction Draft|Priority ID
+Network|How many layers does the OSI model have?|7|4|5|6
+Network|Which OSI layer handles IP addressing?|Network layer|Transport layer|Data link layer|Application layer
+Network|Which protocol is connectionless?|UDP|TCP|SSH|HTTP
+Network|What does DNS do?|Translates domain names to IP addresses|Encrypts traffic|Assigns MAC addresses|Routes packets
+Network|What is the default port of SSH?|22|21|23|25
+Network|How many bits is an IPv4 address?|32|64|128|16
+Network|How many bits is an IPv6 address?|128|32|64|256
+Network|What does DHCP do?|Assigns IP addresses automatically|Resolves names|Encrypts data|Filters packets
+Network|Which device connects different networks?|Router|Hub|Repeater|Cable
+Network|How many bits is a MAC address?|48|32|64|128
+Network|Which protocol is used to send email?|SMTP|IMAP|FTP|SNMP
+Network|Which protocol provides secure remote login?|SSH|Telnet|FTP|HTTP
+Network|Which protocol does ping use?|ICMP|TCP|UDP|ARP
+Network|Which protocol transfers files?|FTP|SMTP|DNS|DHCP
+Network|What does a firewall do?|Filters network traffic|Stores files|Compiles code|Hosts websites
+Network|What is the loopback IP address?|127.0.0.1|192.168.0.1|0.0.0.0|255.255.255.255
+Network|How many steps are in the TCP handshake?|3|2|4|5
+Git/DevOps|Which command initializes a Git repository?|git init|git start|git new|git create
+Git/DevOps|Which command stages changes?|git add|git push|git fetch|git clone
+Git/DevOps|Which command uploads commits to a remote?|git push|git pull|git fetch|git merge
+Git/DevOps|Which command fetches and merges remote changes?|git pull|git push|git clone|git log
+Git/DevOps|Which command lists or creates branches?|git branch|git fork|git split|git tree
+Git/DevOps|Who created Git?|Linus Torvalds|Dennis Ritchie|Tim Berners-Lee|Mark Zuckerberg
+Git/DevOps|Which command shows commit history?|git log|git history|git show-all|git list
+Git/DevOps|What is Docker used for?|Containerization|Version control|Database design|UI design
+Git/DevOps|What does CI stand for?|Continuous Integration|Code Inspection|Central Integration|Compiled Interface
+Git/DevOps|Which file lists files Git should ignore?|.gitignore|.gitkeep|.gitconfig|.ignore
+Git/DevOps|What does git clone do?|Copies a remote repository locally|Deletes a repository|Creates a branch|Reverts a commit
+Git/DevOps|What is Kubernetes used for?|Container orchestration|Programming|Packet routing|Image editing
+Git/DevOps|What does git status show?|State of working directory and staging area|Remote URL|Commit authors only|Deleted branches
+Git/DevOps|What is YAML commonly used for?|Configuration files|Image editing|Compiling|Encryption
+General|What does CPU stand for?|Central Processing Unit|Computer Personal Unit|Central Program Utility|Core Processing Update
+General|What does RAM stand for?|Random Access Memory|Read Access Memory|Rapid Action Memory|Run All Memory
+General|What is decimal 5 in binary?|101|110|100|111
+General|What is the base of the hexadecimal system?|16|8|10|2
+General|How many bits are in a byte?|8|4|16|2
+General|What does a compiler do?|Translates source code into machine code|Edits code|Debugs automatically|Hosts programs
+General|Which is NOT a pillar of OOP?|Compilation|Encapsulation|Inheritance|Polymorphism
+General|What is encapsulation?|Bundling data with methods and restricting access|Having many forms|Inheriting properties|Compiling code
+General|What does polymorphism mean?|Many forms|Single form|Data hiding|Memory leak
+General|What is abstraction?|Hiding implementation details|Copying objects|Looping|Sorting
+General|What is SQL injection?|Inserting malicious SQL through inputs|A join type|A database index|A backup method
+General|What does XSS stand for?|Cross-Site Scripting|Extra Site Security|Cross-Server Sync|XML Style Script
+General|What is hashing?|A one-way function with fixed-size output|Reversible encryption|Compression|Sorting
+General|Which of these is a symmetric encryption algorithm?|AES|RSA|ECC|Diffie-Hellman
+General|Which of these is an asymmetric encryption algorithm?|RSA|AES|DES|Blowfish
+General|What is two-factor authentication?|Two forms of verification|Two passwords|Two users|Two accounts
+General|Machine learning is a subset of what?|Artificial intelligence|Databases|Networking|Compilers
+General|Which is a supervised learning task?|Classification|Clustering|Dimensionality reduction|Anomaly grouping
+General|What are neural networks loosely inspired by?|The human brain|Computer networks|Databases|Compilers
+General|What does LLM stand for?|Large Language Model|Linear Logic Machine|Low-Level Memory|Layered Learning Module
+General|What does big-endian store first?|Most significant byte|Least significant byte|Random byte|Checksum
+General|In SOLID, what does S stand for?|Single Responsibility|Simple|Static|Structured
+General|Which design pattern ensures a single instance?|Singleton|Factory|Observer|Builder
+General|Which design pattern notifies subscribers of changes?|Observer|Singleton|Adapter|Decorator
+General|What does MVC stand for?|Model View Controller|Main View Component|Model Variable Class|Module Version Control
+General|What is a key idea of Agile?|Iterative development|One big release|No planning|Strict phases only
+General|What does the Turing Test evaluate?|Whether a machine shows human-like intelligence|CPU speed|Network latency|Compiler quality
+General|What is UTF-8?|A variable-width character encoding|An image format|A compression method|An encryption scheme
+General|What does IDE stand for?|Integrated Development Environment|Internal Debug Engine|Interactive Data Editor|Integrated Design Element
+General|What does open source mean?|Source code is freely available|The software is bug free|The software is paid only|The code is encrypted
+General|What is cloud computing?|On-demand computing resources over the internet|Weather forecasting|Local storage only|A programming language
+General|What does Moore's law observe?|Transistor counts roughly doubling every two years|CPU speed staying constant|Memory halving yearly|Network speed tripling
+General|Which company owns Android?|Google|Apple|Microsoft|Oracle
+General|Which language does Google prefer for Android development?|Kotlin|Swift|Ruby|Go
+General|Which company created the Go language?|Google|Microsoft|Oracle|Apple
+General|What is Rust's main focus?|Memory safety without garbage collection|Web styling|Database queries|Spreadsheets
+General|Which company developed C#?|Microsoft|Oracle|Google|IBM
+General|What is PHP mainly used for?|Server-side scripting|Styling pages|Database design|Markup
+General|What is Ruby on Rails?|A web framework|A database|An operating system|A text editor
